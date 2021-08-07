@@ -1,6 +1,6 @@
 # Basic-Attention-Token-Generator
 
-# Generate for Brave BAT For Brave
+# Generate BAT For Brave
 
 # Works Only For Windows 10 !
 
